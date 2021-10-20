@@ -1,8 +1,8 @@
 # Curso Pandas Python
 
 ### Canal de Youtube
-https://www.youtube.com/c/Moyetepython
-https://www.youtube.com/channel/UCTpcZMHrqzBSrPa9bEbANDw
+* https://www.youtube.com/c/Moyetepython
+* https://www.youtube.com/channel/UCTpcZMHrqzBSrPa9bEbANDw
 
 ### Lista de reproduccion Pandas
 https://youtube.com/playlist?list=PLzKF7sAvC2S8b8319JJa0u45_EgNOuSj-
