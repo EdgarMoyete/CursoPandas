@@ -17,3 +17,4 @@ https://youtube.com/playlist?list=PLzKF7sAvC2S8b8319JJa0u45_EgNOuSj-
 * Curso Pandas 08 Aplicar funciones, min max lambda unicos ordenar y agrupar: https://youtu.be/nzBZoc58pqI
 * Curso Pandas 09 SQL con SQLAlchemy, crear tabla, insertar y consultas en PostgreSQL: https://youtu.be/mF3c6jy5YRU
 * Curso Pandas 10 Graficar funciones e histograma: https://youtu.be/tB5jO5y8Tbs
+* Curso Pandas 11 Leer Excel: https://youtu.be/wShR5tdB6MY
